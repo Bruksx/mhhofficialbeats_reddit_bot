@@ -1,0 +1,35 @@
+The bot manages a challenge hosted on the subreddit. 2 posts are created weekly by this bot.
+
+Current cypher submission thread posts body:
+https://www.reddit.com/r/makinghiphop/comments/t9xsfv/cypher_vol_10_2022_all_emcees_welcome_to_spit/
+
+Every cypher submission that is posted in the submission thread must be a soundcloud link from:
+https://soundcloud.com/mhhofficialbeats
+If not the bot notifies the (chosen mods) immediately after the winner of that week enters their chosen theme/beat and also asks the winner to reply with the appropriate SC link
+
+1. Cypher submission thread gets posted 11:59pm Sunday
+2 Cypher submission thread closes 11:59pm Friday
+3. Voting thread posts voting begins at 12:00 a.m. Saturday 
+4. Voting thread closes at 10:00 p.m. Saturday
+
+Winner has from 10pm Saturday to 10pm Sunday to choose a beat
+
+repeat step 1
+=================
+
+Current voting thread post body :
+https://www.reddit.com/r/makinghiphop/comments/t8m6b1/cypher_vol_9_2021_voting_thread/
+
+The bot will post every submission in the voting thread each with their own comment from the bot so people can vote on that submission. The bot needs to post their reddit username as a link and also include theier SoundCloud/Artist name within that comment.
+
+Users vote for their favorite submissions by replying "vote." There is also a rule that in order for a submission to win, the user that made the submission must vote on the thread for anyone but themselves.
+
+Once the voting period ends. The bot counts to see which submission has the most votes and if the user of that submission has voted.
+
+The bot leaves a comment announcing the winner under the comment it has made for that submission. Then messages the person who won with their submission asking them to choose a beat (the bot will give them this link https://soundcloud.com/mhhofficialbeats to our library of available beats on the MHHSC and ask them to choose a theme also.
+
+The user's picks will be listed in the "Submission thread" for the next challenge. If a user does not respond with acceptable choices by Saturday 10pm, a specified user who moderates the challenge will get a message from the bot for a choice of beat and theme.
+
+If the winner does not reply before the next Submission thread is to be posted, the moderator's choices will be used instead.
+
+The submission thread is posted, and its contents reflect the new week's due dates, the winner of the last weeks user name, and the beat choice and theme selected along with the other links listed from the link above for the submission thread. IE the producers links and MHHSC links.

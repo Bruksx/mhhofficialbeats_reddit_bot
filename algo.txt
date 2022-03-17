@@ -1,0 +1,9 @@
+1. create submission thread
+2. Create voting thread
+3. comment the submissions on the voting thread
+4. count the votes
+	a. make sure there are no double votes
+	b. make sure all contestants have voted
+	c. make sure no double votes
+	d. only contestants votes are counted
+5. request for new beat from winner
